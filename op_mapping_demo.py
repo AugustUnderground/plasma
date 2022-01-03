@@ -91,7 +91,6 @@ normed_y: [str] = [ "ron","gm","gmbs","gds","betaeff","id","pwr"]
 trafo_y: [str]  = [ "fug", "betaeff", "pwr", "gmbs", "gds", "gm", "vdsat"
                   , "ron", "id", "vearly"]
 
-
 ## Draw samples from the dataset, with emphasis on saturation region, where
 ## Vgs > Vth and Vds > Vgs - Vth.
 
